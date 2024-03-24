@@ -9,6 +9,7 @@
 - [Сервис bingo онлайн-кинотеатра](https://github.com/Lakhonin/bingo)) (Yandex Cloud, Gitlab CI/CD, Docker-compose, Terraform)    
 
 **Coding** 
+- [Cross-platform PowerShell Module для работы с git](https://github.com/Lakhonin/git)) (C#, Gitlab CI/CD)
 
 <br>
 
