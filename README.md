@@ -18,6 +18,6 @@
 <br>
 
 ### Навыки и инструменты
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-199fc3?style=flat-square&logo=Docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/static/v1?style=flat-square&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=) ![Helm](https://img.shields.io/badge/Helm-181e89?style=flat-square&logo=helm&logoColor=white) ![YandexCloud](https://img.shields.io/badge/Yandex_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![GitLab](https://img.shields.io/static/v1?style=flat-square&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=) ![Terraform](https://img.shields.io/badge/Terraform-5c4ee5?style=flat-square&logo=terraform&logoColor=white)  ![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-199fc3?style=flat-square&logo=Docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/static/v1?style=flat-square&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=) ![Helm](https://img.shields.io/badge/Helm-181e89?style=flat-square&logo=helm&logoColor=white)
 
 
