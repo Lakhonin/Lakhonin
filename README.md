@@ -4,8 +4,6 @@
 ### Мои проекты
 ***
 **DevOps**
-- [Онлайн-магазин](https://github.com/Lakhonin/Store)) (Gitlab CI/CD, Docker, SAST, Sonarqube, Postman, Vue, Golang)   
-- [Инфраструктура онлайн-магазина](https://github.com/Lakhonin/infra)) (Yandex Cloud, Gitlab CI/CD, K8s, Helm, Terraform, Minio, Nexus, Loki, Prometheus, Grafana)
 - [Сервис bingo онлайн-кинотеатра](https://github.com/Lakhonin/bingo)) (Yandex Cloud, Gitlab CI/CD, Docker-compose, Terraform)    
 
 **Coding**
